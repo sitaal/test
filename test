@@ -1,1 +1,26 @@
-ssss
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to My Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Open to My Personal Website</h1>
+    </header>
+    <main>
+        <p>Welcome! This is a placeholder page for my personal website. It's still under construction, but I'm excited to share it with you soon.</p>
+        <p>In the meantime, you can check out my social media profiles or contact me using the information below.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Your Name</p>
+        <ul>
+            <li><a href="https://www.facebook.com/">Facebook</a></li>
+            <li><a href="https://twitter.com/">Twitter</a></li>
+            <li><a href="mailto:youremail@example.com">Email</a></li>
+        </ul>
+    </footer>
+</body>
+</html>
